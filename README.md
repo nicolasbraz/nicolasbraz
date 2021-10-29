@@ -15,7 +15,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=Delphi)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
-  ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=Rails)
   
   
 
