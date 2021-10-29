@@ -11,8 +11,9 @@
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
+  ![Firebird](https://img.shields.io/badge/-Firebird-333333?style=flat&logo=Firebird)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
   
 
