@@ -3,8 +3,6 @@
 
 <h3> :man: &nbsp;Nícolas Braz </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre Ruby on Rails.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -17,7 +15,6 @@
 
 **Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
@@ -40,6 +37,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Nícolas Braz](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/n%C3%ADcolas-braz-4ba27837/)
+[![Linkedin: Nícolas Braz](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n%C3%ADcolas-braz-4ba27837/)]
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.braz@gmail.com)](mailto:nicolas.braz@gmail.com)
 [![GitHub Nícolas Braz]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/nicolasbraz)
