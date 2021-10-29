@@ -15,6 +15,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=Delphi)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby)
+  ![Rest](https://img.shields.io/badge/-Rest-333333?style=flat&logo=Rest)
   
   
 
@@ -26,7 +27,6 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![svn](https://img.shields.io/badge/-svn-333333?style=flat&logo=svn)
 
 **Ferramentas de Desenvolvimento**
 
