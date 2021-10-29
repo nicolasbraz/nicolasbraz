@@ -40,6 +40,15 @@
 
 <br/>
 
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbraz&theme=dracula&hide_langs_below=1" />
+</a>
+
+
+<br/>
+
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 ![Linkedin: Nícolas Braz](https://img.shields.io/badge/-nicolasbraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n%C3%ADcolas-braz-4ba27837/)
