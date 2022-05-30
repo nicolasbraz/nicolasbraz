@@ -51,6 +51,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Nícolas Braz](https://img.shields.io/badge/-vanessaswerts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n%C3%ADcolas-braz-4ba27837/)](https://www.linkedin.com/in/n%C3%ADcolas-braz-4ba27837/)
+[![Linkedin: Nícolas Braz](https://img.shields.io/badge/-Nícolas Braz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n%C3%ADcolas-braz-4ba27837/)](https://www.linkedin.com/in/n%C3%ADcolas-braz-4ba27837/)
 [![Gmail Badge](https://img.shields.io/badge/-nicolas.braz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolas.braz@gmail.com)](mailto:nicolas.braz@gmail.com)
 [![GitHub Nícolas Braz](https://img.shields.io/github/followers/nicolasbraz?label=follow&style=social)](https://github.com/nicolasbraz)
