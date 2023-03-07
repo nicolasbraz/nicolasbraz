@@ -39,7 +39,7 @@
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/nicolasbraz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbraz&theme=dracula&hide_langs_below=1" />
 </a>
 
